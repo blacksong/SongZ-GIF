@@ -1,6 +1,6 @@
-==============================
+#==============================
 SongZ GIF
-==============================
+#==============================
 
 SongZ GIF is a GUI to make gif based on pyqt5, moviepy, imageio, scipy.misc and numpy.
 
